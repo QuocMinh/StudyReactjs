@@ -1,0 +1,18 @@
+BT_1:
+Tạo 1 button với nội dung "Hello <number>". <number> sẽ bắt đầu bằng 0.
+Khi click vào button <number> sẽ tăng lên 1.
+-----------------------------------------------------------------------
+BT_2:
+Tạo giao diện gồm 1 thẻ image, 1 button "Next" và 1 button "Previous".
+ - Khi click vào button Next: thẻ image sẽ hiển thị hình kế tiếp.
+ - Khi click vào button Previous: Thẻ image sẽ hiển thị lại hình trước đó
+ * Sử dụng 1 mảng chứa link hình ảnh.
+-----------------------------------------------------------------------
+BT_3: Tương tự bài 2 nhưng đổi hình ảnh bằng setInterval 1 giây.
+  * Gợi ý: dùng hàm componentDidCount()
+-----------------------------------------------------------------------
+BT_4: Render HTML từ mảng String
+-----------------------------------------------------------------------
+BT_5: Render HTML từ mảng các đối tượng
+-----------------------------------------------------------------------
+BT_6: Quản lý ghi chú
